@@ -11,3 +11,8 @@ itt mar azert kisebb a heading
 - ccc
 
 [Vissza a readme.md-re](README.md)
+
+#### ez meg annál is kisebb
+
+ráadásul a saját gépemen csináltam
+
