@@ -6,9 +6,9 @@ de lesz még ennél is kisebb
 
 ### meg kisebb
 
-- aaa
-- bbb
-- ccc
+1. aaa
+2. bbb
+3. ccc
 
 [Vissza a readme.md-re](README.md)
 
